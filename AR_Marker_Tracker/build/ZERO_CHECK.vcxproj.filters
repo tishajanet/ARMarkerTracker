@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\HP\Desktop\AR_Marker_Tracker\build\CMakeFiles\aa3cfb71e25b8ba4ff7c565dead7cf2b\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6AAA8AE5-FDCA-36DC-91E3-CB430B8BEDAF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

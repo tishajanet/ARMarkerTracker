@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/HP/Desktop/AR Marker Tracker/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/AR_MARKER_TRACKER.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AR_MARKER_TRACKER.dir\\src\\main.cpp.obj -c \"C:\\Users\\HP\\Desktop\\AR Marker Tracker\\src\\main.cpp\"",
+  "file": "C:/Users/HP/Desktop/AR Marker Tracker/src/main.cpp",
+  "output": "CMakeFiles/AR_MARKER_TRACKER.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP/Desktop/AR Marker Tracker/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/AR_MARKER_TRACKER.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AR_MARKER_TRACKER.dir\\src\\CameraCalibrator.cpp.obj -c \"C:\\Users\\HP\\Desktop\\AR Marker Tracker\\src\\CameraCalibrator.cpp\"",
+  "file": "C:/Users/HP/Desktop/AR Marker Tracker/src/CameraCalibrator.cpp",
+  "output": "CMakeFiles/AR_MARKER_TRACKER.dir/src/CameraCalibrator.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP/Desktop/AR Marker Tracker/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/AR_MARKER_TRACKER.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AR_MARKER_TRACKER.dir\\src\\MarkerDetector.cpp.obj -c \"C:\\Users\\HP\\Desktop\\AR Marker Tracker\\src\\MarkerDetector.cpp\"",
+  "file": "C:/Users/HP/Desktop/AR Marker Tracker/src/MarkerDetector.cpp",
+  "output": "CMakeFiles/AR_MARKER_TRACKER.dir/src/MarkerDetector.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP/Desktop/AR Marker Tracker/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/AR_MARKER_TRACKER.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AR_MARKER_TRACKER.dir\\src\\PoseEstimator.cpp.obj -c \"C:\\Users\\HP\\Desktop\\AR Marker Tracker\\src\\PoseEstimator.cpp\"",
+  "file": "C:/Users/HP/Desktop/AR Marker Tracker/src/PoseEstimator.cpp",
+  "output": "CMakeFiles/AR_MARKER_TRACKER.dir/src/PoseEstimator.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP/Desktop/AR Marker Tracker/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/AR_MARKER_TRACKER.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AR_MARKER_TRACKER.dir\\src\\Renderer.cpp.obj -c \"C:\\Users\\HP\\Desktop\\AR Marker Tracker\\src\\Renderer.cpp\"",
+  "file": "C:/Users/HP/Desktop/AR Marker Tracker/src/Renderer.cpp",
+  "output": "CMakeFiles/AR_MARKER_TRACKER.dir/src/Renderer.cpp.obj"
+}
+]

@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\AR_MARKER_TRACKER.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\AR_MARKER_TRACKER.dir/objects.a @CMakeFiles\AR_MARKER_TRACKER.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\AR_MARKER_TRACKER.dir/objects.a -Wl,--no-whole-archive -o AR_MARKER_TRACKER.exe -Wl,--out-implib,libAR_MARKER_TRACKER.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\AR_MARKER_TRACKER.dir\linkLibs.rsp
